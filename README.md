@@ -1,4 +1,3 @@
-# image-editor
 313 Ciocea Bogdan-Andrei
 
 		Pentru abordarea acestei teme, am considerat ca ar fi decent sa fac o 
