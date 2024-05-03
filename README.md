@@ -1,5 +1,5 @@
 # image-editor
-#313 Ciocea Bogdan-Andrei
+313 Ciocea Bogdan-Andrei
 
 		Pentru abordarea acestei teme, am considerat ca ar fi decent sa fac o 
 	structura care sa retina datele unei imagini, adica tipul (avand doua 
